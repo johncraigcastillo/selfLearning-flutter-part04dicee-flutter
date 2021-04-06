@@ -1,6 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
+#Taken from London App Brewery Flutter Tutorial
 # Dicee 🎲
 
 ## Our Goal
